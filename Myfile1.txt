@@ -1,2 +1,3 @@
 Some text
 This file was edited in Github
+Adding this change on the conflict branch
